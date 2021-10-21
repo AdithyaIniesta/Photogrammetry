@@ -4,10 +4,9 @@ Python Notebooks containing implementations of Photogrammetry algorithms.
 The repository contains Python implementations of Photogrammetry algorithms. Theory is based on Robot Perception course by Prof. Dr. Paul G Ploger at Bonn Rhein Sieg University of Applied Sciences. 
  
 ### Direct Linear Transform
+![download](https://user-images.githubusercontent.com/13369817/138262215-b9f21719-9ee0-4c78-aca2-7980feaaaf88.png)
 
-![combined_image12](https://user-images.githubusercontent.com/13369817/138261390-deb900cf-e353-4649-9f67-3187b77f8bfe.jpg)
-
-![im_out1](https://user-images.githubusercontent.com/13369817/138261427-feec72d3-8e00-425b-9e00-33fcc84c0259.jpg)
+![download (1)](https://user-images.githubusercontent.com/13369817/138262228-1e7bc1c4-3ee6-4747-9750-b89d24d03c4d.png)
 
 ### Eight Point Algorithm
 
