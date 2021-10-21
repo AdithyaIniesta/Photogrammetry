@@ -6,6 +6,6 @@ The repository contains Python implementations of Photogrammetry algorithms. The
 ### Direct Linear Transform!
 Input images with corresponding points
 
-![book1](https://user-images.githubusercontent.com/13369817/138261220-7f5f0b86-f202-4737-9de7-16d21b667771.jpg)
+![combined_image12](https://user-images.githubusercontent.com/13369817/138261390-deb900cf-e353-4649-9f67-3187b77f8bfe.jpg)
 
-![book2](https://user-images.githubusercontent.com/13369817/138261231-7116d490-84d1-4382-bc29-d9f54a2bae95.jpg)
+![im_out1](https://user-images.githubusercontent.com/13369817/138261427-feec72d3-8e00-425b-9e00-33fcc84c0259.jpg)
